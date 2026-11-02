@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Yoishik 👋
 
-<!--
-**yoishik16/yoishik16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineering student at the University of Toronto (AI & Business minors). I build tools that make messy real-world systems smarter, from fulfillment centers to hospital clinics to city streets.
 
-Here are some ideas to get you started:
+**What I've built**
+- 🛡️ **[Swapr](https://github.com/yoishik16/swapr-security)**: full-stack clothing swap platform for UofT students (Spring Boot, JWT, PostgreSQL, Docker), hardened with a DevSecOps pipeline (Trivy, GitLeaks) and pen testing
+- 👁️ **[EyeDentify](https://github.com/AnitraRoy/EyeDentify)**: ResNet-18 model that classifies OCT retinal scans into 4 disease classes with 91.3% accuracy and 0.99 AUC (PyTorch)
+- 🚦 **[OptiCam](https://github.com/AnitraRoy/OptiCam)**: spatial analysis of Toronto collisions and speed cameras, using clustering and an optimization model to recommend new camera locations (GeoPandas, scikit-learn)
+- 🏥 **Capstone with Princess Margaret Cancer Centre**: system to help kids get through radiation therapy (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**: Quality Intern, Travel & AI Enablement @ Super.com
+**Previously**: Amazon, FedEx Ground
+
+**Stack**: Python · Java · SQL · PyTorch · LangChain · Spring Boot · PostgreSQL · Docker · GitLab CI/CD
+
+📫 [LinkedIn](https://linkedin.com/in/yoishik-rakshit) · yoishik16@gmail.com
